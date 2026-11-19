@@ -1,4 +1,3 @@
-notepad .\data\schemes\vjnt_scholarship.txt(Get-Item .\data\schemes\vjnt_scholarship.txt).Length
 SCHEME NAME: Post-Matric Scholarship To VJNT Students - Maharashtra
 
 STATE: Maharashtra
