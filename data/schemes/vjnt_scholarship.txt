@@ -1,0 +1,39 @@
+notepad .\data\schemes\vjnt_scholarship.txt(Get-Item .\data\schemes\vjnt_scholarship.txt).Length
+SCHEME NAME: Post-Matric Scholarship To VJNT Students - Maharashtra
+
+STATE: Maharashtra
+CATEGORY: VJNT
+
+OBJECTIVE:
+Financial assistance for VJNT students pursuing post-matric education.
+
+ELIGIBILITY:
+1. Applicant must belong to VJNT category.
+2. Applicant must be a resident of Maharashtra.
+3. Annual family income must not exceed Rs. 1.5 lakh.
+4. Applicant must be enrolled in an approved post-matric course.
+5. Minimum 75% attendance is required.
+
+DOCUMENTS REQUIRED:
+1. Caste Certificate.
+2. Income Certificate.
+3. Caste Validity Certificate (if applicable).
+4. Previous Year Marksheet.
+5. Gap Certificate (if applicable).
+6. Ration Card.
+7. Leaving Certificate.
+8. Parents Declaration.
+
+APPLICATION PROCESS:
+1. Visit MahaDBT portal.
+2. Login or register.
+3. Select VJNT Post-Matric Scholarship.
+4. Fill the application form.
+5. Upload required documents.
+6. Submit the application.
+7. Save the application reference number.
+
+OFFICIAL SOURCES:
+https://www.myscheme.gov.in/schemes/pmsvs-maharashtra
+https://mahadbt.maharashtra.gov.in/
+
