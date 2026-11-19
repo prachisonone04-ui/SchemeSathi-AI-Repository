@@ -1,0 +1,31 @@
+
+SCHEME NAME: PM-KISAN Samman Nidhi
+
+CATEGORY: Farmer Welfare
+
+OBJECTIVE:
+To provide income support to eligible landholding farmer families in India.
+
+BENEFIT:
+Eligible farmer families receive financial assistance of Rs. 6000 per year in three installments, subject to scheme rules.
+
+ELIGIBILITY:
+1. Eligible landholding farmer families as defined by the scheme.
+2. Certain institutional landholders and specified excluded categories are not eligible.
+3. Eligibility must be verified through official government records.
+
+DOCUMENTS:
+1. Aadhaar Card.
+2. Land ownership records.
+3. Bank account details.
+4. Other documents required by the official portal.
+
+APPLICATION:
+1. Visit the official PM-KISAN portal.
+2. Complete Farmer Registration.
+3. Enter Aadhaar and bank details.
+4. Submit the required information.
+5. Check application status on the portal.
+
+OFFICIAL SOURCE:
+https://pmkisan.gov.in/
