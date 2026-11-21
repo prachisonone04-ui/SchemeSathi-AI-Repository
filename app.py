@@ -90,7 +90,6 @@ SCHEME_DETAILS = {
 # LOAD MULTIPLE SCHEME DOCUMENTS
 # --------------------------------------------------
 
-@st.cache_data
 def load_data():
 
     schemes = {}
