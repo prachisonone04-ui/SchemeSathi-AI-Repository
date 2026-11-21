@@ -123,6 +123,7 @@ def load_data():
 try:
 
     schemes = load_data()
+    st.write("Loaded scheme files:", list(schemes.keys()))
 
     document_loaded = len(schemes) > 0
 
