@@ -1,5 +1,5 @@
 
-def split_text(text, chunk_size=500):
+def split_text(text, chunk_size=1000):
     chunks = []
 
     for i in range(0, len(text), chunk_size):
@@ -23,12 +23,30 @@ def search_information(question, chunks):
         "रहिवासी": ["resident", "maharashtra"],
         "उपस्थिती": ["attendance"],
         "गुणपत्रक": ["marksheet"],
+
+        "maintenance allowance": [
+            "maintenance", "allowance", "hosteller",
+            "day scholar", "group a", "group b",
+            "group c", "group d", "group e"
+        ],
+        "allowance": [
+            "maintenance", "hosteller", "day scholar"
+        ],
+        "देखभाल भत्ता": [
+            "maintenance", "allowance", "hosteller"
+        ],
+        "वसतिगृह": ["hosteller"],
+        "निवासी": ["hosteller"],
+        "दिवस विद्यार्थी": ["day scholar"],
+        "ग्रुप": ["group a", "group b", "group c", "group d", "group e"],
+        "फी": ["tuition fees", "examination fees", "benefits"],
+        "लाभ": ["benefits", "maintenance allowance"]
     }
 
     keywords = question.split()
 
-    for marathi_word, english_words in aliases.items():
-        if marathi_word in question:
+    for word, english_words in aliases.items():
+        if word in question:
             keywords.extend(english_words)
 
     keywords = [
@@ -47,9 +65,13 @@ def search_information(question, chunks):
             if word in chunk_lower
         )
 
+        if "maintenance" in question or "allowance" in question:
+            if "maintenance allowance" in chunk_lower:
+                score += 10
+
         if score > 0:
             results.append((score, chunk))
 
     results.sort(reverse=True, key=lambda x: x[0])
 
-    return [chunk for score, chunk in results[:3]]
+    return [chunk for score, chunk in results[:5]]
