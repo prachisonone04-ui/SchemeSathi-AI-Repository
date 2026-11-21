@@ -123,6 +123,10 @@ def load_data():
 try:
 
     schemes = load_data()
+    st.write(
+    "VJNT allowance text found:",
+    "MONTHLY MAINTENANCE ALLOWANCE" in schemes.get("vjnt_scholarship", {}).get("text", "").upper()
+)
     st.write("Loaded scheme files:", list(schemes.keys()))
 
     document_loaded = len(schemes) > 0
