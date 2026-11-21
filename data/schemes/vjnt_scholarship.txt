@@ -1,38 +1,74 @@
-SCHEME NAME: Post-Matric Scholarship To VJNT Students - Maharashtra
+SCHEME NAME:
+Post-Matric Scholarship To VJNT Students - Maharashtra
 
-STATE: Maharashtra
-CATEGORY: VJNT
+STATE:
+Maharashtra
+
+CATEGORY:
+VJNT
 
 OBJECTIVE:
-Financial assistance for VJNT students pursuing post-matric education.
+To encourage VJNT students to pursue post-matric higher education by providing financial assistance.
+
+BENEFITS:
+Tuition fees, examination fees and maintenance allowance.
+
+MONTHLY MAINTENANCE ALLOWANCE:
+
+Group A:
+Hosteller: Rs. 425
+Day Scholar: Rs. 190
+
+Group B:
+Hosteller: Rs. 290
+Day Scholar: Rs. 190
+
+Group C:
+Hosteller: Rs. 290
+Day Scholar: Rs. 190
+
+Group D:
+Hosteller: Rs. 230
+Day Scholar: Rs. 120
+
+Group E:
+Hosteller: Rs. 150
+Day Scholar: Rs. 90
 
 ELIGIBILITY:
 1. Applicant must belong to VJNT category.
 2. Applicant must be a resident of Maharashtra.
-3. Annual family income must not exceed Rs. 1.5 lakh.
-4. Applicant must be enrolled in an approved post-matric course.
-5. Minimum 75% attendance is required.
+3. Parent or guardian annual income must not exceed Rs. 1.5 lakh.
+4. Applicant must be enrolled in a government-approved post-matric course.
+5. Minimum 75 percent attendance is required.
+6. CAP admission is required for professional courses.
 
 DOCUMENTS REQUIRED:
 1. Caste Certificate.
 2. Income Certificate.
-3. Caste Validity Certificate (if applicable).
-4. Previous Year Marksheet.
-5. Gap Certificate (if applicable).
-6. Ration Card.
-7. Leaving Certificate.
-8. Parents Declaration.
+3. Caste Validity Certificate for professional courses, if applicable.
+4. SSC/HSC or previous year marksheet.
+5. Gap Certificate, if applicable.
+6. Death Certificate, if applicable.
+7. Ration Card.
+8. Leaving Certificate.
+9. Parents Declaration regarding number of children.
 
 APPLICATION PROCESS:
-1. Visit MahaDBT portal.
-2. Login or register.
-3. Select VJNT Post-Matric Scholarship.
-4. Fill the application form.
-5. Upload required documents.
-6. Submit the application.
-7. Save the application reference number.
+1. Visit MahaDBT official portal.
+2. Register or log in.
+3. Find the VJNT Post-Matric Scholarship.
+4. Check eligibility.
+5. Select academic year.
+6. Fill application form.
+7. Upload required documents.
+8. Preview and submit application.
+9. Save Application Reference Number (ARN).
+10. Track application status.
 
 OFFICIAL SOURCES:
-https://www.myscheme.gov.in/schemes/pmsvs-maharashtra
-https://mahadbt.maharashtra.gov.in/
+myScheme: https://www.myscheme.gov.in/schemes/pmsvs-maharashtra
+MahaDBT: https://mahadbt.maharashtra.gov.in/
 
+IMPORTANT:
+This information is for guidance. Verify current eligibility, benefits and documents on official government portals before applying.
